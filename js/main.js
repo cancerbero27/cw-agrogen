@@ -375,3 +375,37 @@ $(window).enllax();
 
         return false;
     });
+
+
+/* Funcion para elegir familia de productos al entrar a la página */
+$(document).ready(function(){
+
+    var familia = RegExp('f' + '=([^&#]*)').exec(window.location.href);
+    var familia = familia[0].replace('f=','');
+
+    if ($('.masonary-layout').length) {
+        $('.masonary-layout').isotope({
+            layoutMode: 'masonry'
+        });
+    }
+        
+    var postFilterList = $('.post-filter li');
+    
+    var Self = $('#' + familia);
+    var selector = Self.parent().attr('data-filter');
+    postFilterList.children('span').parent().removeClass('active');
+    Self.parent().addClass('active');
+
+
+    $('.filter-layout').isotope({
+        filter: selector,
+        animationOptions: {
+            duration: 500,
+            easing: 'linear',
+            queue: false
+        }
+    });
+    return false;
+
+
+}); 
