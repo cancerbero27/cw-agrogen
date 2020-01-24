@@ -359,6 +359,9 @@ $(window).enllax();
             mensaje: $("#mensaje").val()
         };
 
+        $("#frmContacto input").prop("disabled", true);
+        $("#frmContacto textarea").prop("disabled", true);
+
         $.ajax({
             type: "POST",
             url: "enviar-correo.php",
@@ -367,7 +370,10 @@ $(window).enllax();
                 $('.alert').slideDown('slow' , function() {
                     setTimeout(function() {
                         $('.alert').slideUp('slow');
-                        $("#frmContacto").find(".form-control").val("");
+                        $("#frmContacto input").prop("disabled", false);
+                        $("#frmContacto textarea").prop("disabled", false);
+                        $("#frmContacto input").val("");
+                        $("#frmContacto textarea").val("");
                     },2500);
                 });
             }
