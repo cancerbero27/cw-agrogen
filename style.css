@@ -2497,6 +2497,7 @@
 }
 
 .contact-middle form input,
+.contact-middle form select,
 .contact-middle form textarea {
   width: 100%;
   background: #bbe8c1;
@@ -2523,6 +2524,10 @@
   box-shadow: 
       0 10px 10px -6px rgba(0,0,0,.3),
       inset 0 -8px 10px -6px rgba(0,0,0,.3);
+}
+
+select:required:invalid {
+  color: #757575;;
 }
 
 #map {

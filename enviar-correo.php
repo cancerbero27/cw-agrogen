@@ -7,7 +7,7 @@
         $departamento   = $_POST['departamento'];
         $mensaje        = $_POST['mensaje'];
 
-        $email_to      = "jonathankbs@gmail.com";
+        $email_to      = $departamento;
         $email_subject = "Contacto desde el sitio web agrogen.com";
 
         $email_message  = "Detalles del formulario de contacto:\n\n";

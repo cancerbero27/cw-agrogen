@@ -28,7 +28,16 @@
                                         <input type="text" id="telefono" placeholder="Teléfono">
                                     </div>
                                     <div class="col-md-12 mb-30">
-                                        <input type="text" id="departamento" placeholder="Departamento" required>
+                                        <!-- <input type="text" id="departamento" placeholder="Departamento" required> -->
+                                        <select id="departamento" required>
+                                            <option value="" class="select-disabled" selected disabled >* Departamento</option>
+                                            <option value="contacto_ventas@agrogen.com.mx">Ventas</option>
+                                            <option value="contacto_compras@agrogen.com.mx">Compras</option>
+                                            <option value="contacto_recursos_humanos@agrogen.com.mx">Recursos Humanos</option>
+                                            <option value="contacto_oficinas_mexico@agrogen.com.mx">Oficinas México</option>
+                                            <option value="contacto_asistencia_tecnica@agrogen.com.mx">Asistencia Técnica</option>
+                                        </select>
+
                                     </div>
                                     <div class="col-md-12 mb-30">
                                         <textarea id="mensaje" placeholder="*Mensaje" required></textarea>
@@ -51,210 +60,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <div class="contact-top">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-10 col-lg-offset-1">
-                            <div class="section-header text-center">
-                                <h1 class="f1 fw-7 c4 pb-60">Directorio</h1>
-                            </div>
-                            <div class="table-responsive">
-                                <table class="table txt-normal">
-                                    <thead>
-                                        <tr>
-                                            <th>Departamento</th>
-                                            <th>Teléfono</th>
-                                            <th>Correo</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr class="warning">
-                                            <td>Ventas</td>
-                                            <td>(442) 238 0042</td>
-                                            <td>contacto_ventas@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Producción</td>
-                                            <td>(442) 238 0066</td>
-                                            <td>contacto_produccion@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>Compras</td>
-                                            <td>(55) 5246 4411</td>
-                                            <td>contacto_compras@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Recursos Humanos</td>
-                                            <td>(442) 238 0024</td>
-                                            <td>contacto_recursos_humanos@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>Mantenimiento</td>
-                                            <td>(442) 238 0006</td>
-                                            <td>contacto_mantenimiento@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr>
-                                            <td>Oficinas México</td>
-                                            <td>(55) 5246 4400</td>
-                                            <td>contacto_oficinas_mexico@agrogen.com.mx</td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>Asistencia Técnica</td>
-                                            <td>(442) 5956 761</td>
-                                            <td>contacto_asistencia_tecnica@agrogen.com.mx</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="section-header text-center">
-                                <h1 class="f1 fw-7 c4 mt-60 pb-60">Equipo Comercial</h1>
-                            </div>
-                            <div class="table-responsive">
-                                <table class="table txt-normal">
-                                    <thead>
-                                        <tr>
-                                            <th>Nombre</th>
-                                            <th>Puesto</th>
-                                            <th>Teléfono</th>
-                                            <th>Correo</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr class="warning">
-                                            <td>
-                                                Ing. Sabas Ortiz Torres
-                                            </td>
-                                            <td>
-                                                Jefe de ventas agrícolas zona sur y sureste.
-                                            </td>
-                                            <td>
-                                                Cel. 4423227341
-                                            </td>
-                                            <td>
-                                                sortiz@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                Ing. Marco Antonio Herros Martínez
-                                            </td>
-                                            <td>
-                                                Jefe de ventas agrícolas zona centro y norte
-                                            </td>
-                                            <td>
-                                                Cel. 4424676382
-                                            </td>
-                                            <td>
-                                                mherros@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>
-                                                Ing. Héctor Hinojosa Olvera
-                                            </td>
-                                            <td>
-                                                Guanajuato y Michoacán
-                                            </td>
-                                            <td>
-                                                Cel. 4423227338
-                                            </td>
-                                            <td>
-                                                hhinojosa@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                Ing. Fermín Gómez Gómez
-                                            </td>
-                                            <td>
-                                                Tamaulipas, Nuevo León, Coahuila, Durango, Chihuahua, San 
-                                            </td>
-                                            <td>
-                                                Cel. 4423227343
-                                            </td>
-                                            <td>
-                                            </tr>
-                                        </td>
-                                        <tr class="warning">
-                                            <td>
-                                                Lic. Servando Aguirre Díaz
-                                            </td>
-                                            <td>
-                                                CDMX, Edo. De Méx., Hidalgo, Morelos, Oaxaca, Guerrero
-                                            </td>
-                                            <td>
-                                                Cel. 4423227335
-                                            </td>
-                                            <td>
-                                                saguirre@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                Ing. Daniel Vargas Rangel
-                                            </td>
-                                            <td>
-                                                Puebla, Tlaxcala, Veracruz
-                                            </td>
-                                            <td>
-                                                Cel. 4422302766
-                                            </td>
-                                            <td>
-                                                dvargas@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>
-                                                Ing. Abelardo de la Torre Pizaña
-                                            </td>
-                                            <td>
-                                                Jalisco, Aguascalientes, Zacatecas, Nayarit, Colima, Sinaloa
-                                            </td>
-                                            <td>
-                                                Cel. 4423227346
-                                            </td>
-                                            <td>
-                                                adelatorre@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                Ing. Pompeyo Báez Rivera
-                                            </td>
-                                            <td>
-                                                Chiapas, Tabasco, Campeche, Yucatán, Quintana Roo
-                                            </td>
-                                            <td>
-                                                Cel. 4423227356
-                                            </td>
-                                            <td>
-                                                pbaez@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                        <tr class="warning">
-                                            <td>
-                                                Ing. Jorge Rivera Zamarripa
-                                            </td>
-                                            <td>
-                                                Ingenios
-                                            </td>
-                                            <td>
-                                                Cel. 4423227347
-                                            </td>
-                                            <td>
-                                                jrivera@agrogen.com.mx
-                                            </td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div> -->
             <div class="contact-bottom pb-60">
                 <div class="contact-map-area">
                     <div class="container">
@@ -270,27 +75,27 @@
                             </div>
                             <div class="col-lg-6 text-center">
                                 <h2 class="fw-7 c4">Centro de distribución La Barca</h2>
-                                <p class="txt-normal">47913, San Antonio, 47913 La Barca, Jal.</p>
+                                <p class="txt-normal">Calle Mandarina No. 12, Col. San Antonio, La Barca, Jal.</p>
                                 <p class="txt-normal">393 935 7350</p>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3741.6814983754603!2d-102.54525718554744!3d20.3134464171884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842ec3ce48b2d561%3A0xfd628977f401f68!2sBodega%20Agrogen%20La%20Barca!5e0!3m2!1ses-419!2smx!4v1567205629938!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             </div>
                             <div class="col-lg-6 text-center">
                                 <h2 class="fw-7 c4">Centro de distribución Pénjamo</h2>
-                                <p class="txt-normal">San Bernardo, Gto.</p>
-                                <p class="txt-normal">-- --------</p>
+                                <p class="txt-normal">Carr. Pénjamo-La estación S/N Km. 0.5, Pénjamo, Guanajuato</p>
+                                <p class="txt-normal">469 692 5173<p>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d956682.9251829338!2d-101.6531895417917!3d20.504476711710954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842c133694d7ea8f%3A0x43347186846e2003!2sAgrogen%20SA%20de%20CV%20Penjamo!5e0!3m2!1ses-419!2smx!4v1567205688426!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             </div>
                             <div class="col-lg-6 text-center">
                                 <h2 class="fw-7 c4">Centro de distribución Salamanca</h2>
-                                <p class="txt-normal">Villagrán - Salamanca 37, Salamanca, Gto.</p>
-                                <p class="txt-normal">464 6477500</p>
+                                <p class="txt-normal">Carr. Panamericana S/N Km. 89 + 300, Salamanca, Gto.</p>
+                                <p class="txt-normal">464 647 7500</p>
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d956682.9251829338!2d-101.6531895417917!3d20.504476711710954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd4ddc65cb0441cba!2sAgrogen%20S.A.%20de%20C.V.%20Bodega%20Salamanca!5e0!3m2!1ses-419!2smx!4v1567205724208!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             </div>
                             <div class="col-lg-6 text-center">
                                 <h2 class="fw-7 c4 text-center">Centro de distribución Minatitlán</h2>
-                                <p class="txt-normal">Dirección.</p>
-                                <p class="txt-normal">-- --------</p>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1897.2798230504843!2d-94.56905144206637!3d17.99921304787426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e98803e1557157%3A0x6d7db06feafdeacd!2sUnnamed%20Road%2C%20Rosalinda%2C%2096710%20Minatitl%C3%A1n%2C%20Veracruz!5e0!3m2!1ses-419!2smx!4v1567214879627!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                <p class="txt-normal">Carr. Transístmica km 26.50 Col. Rosa Linda Minatitlan, Veracruz.</p>
+                                <p class="txt-normal">922 242 7452</p>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3794.5027786719425!2d-94.5707797855809!3d18.001855689531226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85e98803b067986b%3A0x16d0497db2c09340!2sSoluciones%20Qu%C3%ADmicas%20para%20el%20Campo%20y%20la%20Industria%20SA%20de%20CV!5e0!3m2!1ses-419!2smx!4v1580931194408!5m2!1ses-419!2smx" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                             </div>
                             <div class="col-lg-6 text-center">
                                 <h2 class="fw-7 c4 text-center">Centro de distribución Veracruz</h2>
