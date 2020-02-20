@@ -10,14 +10,59 @@
         $email_to      = $departamento;
         $email_subject = "Contacto desde el sitio web agrogen.com";
 
-        $email_message  = "Detalles del formulario de contacto:\n\n";
-        $email_message .= "Nombre: "        . $nombre       . "\n";
-        $email_message .= "Correo: "        . $correo       . "\n";
-        $email_message .= "Teléfono: "      . $telefono     . "\n";
-        $email_message .= "Departamento: "  . $departamento . "\n";
-        $email_message .= "Mensaje: "       . $mensaje      . "\n\n";
+        $email_message  = '<html>
+    <body style="text-align:center;">
+        <table style="padding: 15px 10px 30px 10px; margin: 0 auto; background-color:#3c9e4a;">
+            <tr>
+                <td>
+                    <table style="border-collapse:collapse; border: none; font-family: arial; color:#FFF;">
+                        <tbody>
+                            <tr>
+                                <td colspan="2">
+                                    <h2 style="text-align:center; font-size: 28px; margin:0; padding:15px; margin-bottom: 25px;"><span style="font-weight: bold; font-size:36px; color: #f1c37d;">Agrogen,</span> contacto desde formulario</h2>
+                                </td>           
+                            </tr>
+                            <tr style="text-align: left;">
+                                <td style="width:130px; padding: 10px 5px;">
+                                    Nombre:
+                                </td>
+                                <td style="background-color: #FFFFFF; color:#000000; width:570px; padding: 10px 5px; border-bottom: solid 5px #3c9e4a">'.$nombre.'</td>
+                            </tr>
+                            <tr style="text-align: left;">
+                                <td style="padding: 10px 5px;">
+                                    Correo:
+                                </td>
+                                <td style="background-color: #FFFFFF; margin:0;  color:#000000; padding: 10px 5px; border-bottom: solid 5px #3c9e4a">'.$correo.'</td>
+                            </tr>
+                            <tr style="text-align: left;">
+                                <td style="padding: 10px 5px;">
+                                    Teléfono:
+                                </td>
+                                <td style="background-color: #FFFFFF;  color:#000000; padding: 10px 5px; border-bottom: solid 5px #3c9e4a">'.$telefono.'</td>
+                            </tr>
+                            <tr style="text-align: left;">
+                                <td style="padding: 10px 5px;">
+                                    Departamento:
+                                </td>
+                                <td style="background-color: #FFFFFF;  color:#000000; padding: 10px 5px; border-bottom: solid 5px #3c9e4a">'.$departamento.'</td>
+                            </tr>
+                            <tr style="text-align: left;">
+                                <td style="padding: 10px 5px;">
+                                    Mensaje:
+                                </td>
+                                <td style="background-color: #FFFFFF;  color:#000000; padding: 10px 5px; border-bottom: solid 5px #3c9e4a">'.$mensaje.'</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </table>    
+    </body>
+</html>';
 
-        $headers = 'From: '.$correo."\r\n".
+        $headers  = 'MIME-Version: 1.0' . "\r\n";
+        $headers .= 'Content-type: text/html; charset=UTF-8' . "\r\n";
+        $headers .= 'From: '.$correo."\r\n".
         'Reply-To: '.$correo."\r\n" .
         'X-Mailer: PHP/' . phpversion();
 
