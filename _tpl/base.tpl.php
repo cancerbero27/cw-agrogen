@@ -119,7 +119,6 @@
                                 <h3>Carr. a Tlacote El Bajo, km. 5.5 Querétaro, Qro. C.P. 76000</h3>
                                 <ul>
                                     <li><i class="fa fa-phone-square"></i> Tel. (442) 238 0000</li>
-                                    <li><i class="fa fa-phone-square"></i> Fax. (442) 238 0039</li>
                                     <li><i class="fa fa-phone-square"></i> Lada 01 800 111 0038</li>
                                 </ul>
                             </div>
@@ -130,7 +129,6 @@
                                 <h3>Andrés Bello No. 45 piso 13 Polanco, Chapultepec C.P.11560 Ciudad de México</h3>
                                 <ul>
                                     <li><i class="fa fa-phone-square"></i> Tel. (55) 5246 4400</li>
-                                    <li><i class="fa fa-phone-square"></i> Fax. (55) 5596 8276</li>
                                 </ul>
                             </div>
                         </div>
