@@ -8,11 +8,11 @@
     <title>Agrogen</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="img/logos/favicon.png">
+    <link rel="shortcut icon" href="<?php echo $_n ?>img/logos/favicon.png">
     <!-- ====== main style start ====== -->
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link rel="stylesheet" type="text/css" href="css/effect.css">
-    <link rel="stylesheet" type="text/css" href="css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>style.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>css/effect.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>css/responsive.css">
     <!-- ====== main style end ====== -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -23,7 +23,7 @@
 
 <body>
     <div class="preloader text-center">
-        <img src="img/logos/preloader-logo.png" alt="">
+        <img src="<?php echo $_n ?>img/logos/preloader-logo.png" alt="">
         <h1 class="preloader-texto f1">Más de 27 años sirviendo al campo Mexicano</h1>
         <div class="spinner"></div>
     </div>
@@ -36,27 +36,27 @@
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu"> <span></span>  <span></span>  <span></span> 
                         </button>
-                        <a class="navbar-brand" href="index.html">
-                            <img src="img/logos/logotipo.png" alt="logo">
+                        <a class="navbar-brand" href="<?php echo $_n ?>index.html">
+                            <img src="<?php echo $_n ?>img/logos/logotipo.png" alt="logo">
                         </a>
                     </div>
                     <div class="collapse navbar-collapse" id="main-menu">
                         <ul class="nav navbar-nav f1 mainMenu text-capitalize">
                             <li <?php if ($tpl["activo"] == "inicio"){ echo "class='active'"; } ?>>
-                                <a href="index.html">Home</a>
+                                <a href="<?php echo $_n ?>index.html">Home</a>
                             </li>
                             <li <?php if ($tpl["activo"] == "nosotros"){ echo "class='active'"; } ?>>
-                                <a href="nosotros.html">Nosotros</a>
+                                <a href="<?php echo $_n ?>nosotros.html">Nosotros</a>
                             </li>
                             <li <?php if ($tpl["activo"] == "productos"){ echo "class='active'"; } ?>>
-                                <a href="productos.html">Productos</a>
+                                <a href="<?php echo $_n ?>productos.html">Productos</a>
                             </li>
                             <li <?php if ($tpl["activo"] == "recursos"){ echo "class='active'"; } ?>>
-                                <a href="recursos-tecnicos.html">Recursos Técnicos</a>
+                                <a href="<?php echo $_n ?>recursos-tecnicos.html">Recursos Técnicos</a>
                             </li>
                             
                             <li <?php if ($tpl["activo"] == "contacto"){ echo "class='active'"; } ?>>
-                                <a href="contacto.html">Contacto</a>
+                                <a href="<?php echo $_n ?>contacto.html">Contacto</a>
                             </li>
 
                         </ul>
@@ -160,13 +160,13 @@
     <!-- page-wrapper end -->
     <div class="back2Top bg1"> <i class="fa fa-angle-up fa-2x cw"></i>
     </div>
-    <script src="js/jquery-1.12.4.min.js"></script>
-    <script src="js/html5lightbox/html5lightbox.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.enllax.min.js"></script>
-    <script src="js/isotope.js"></script>
-    <script src="js/owl.carousel.js"></script>
-    <script src="js/main.js"></script>
+    <script src="<?php echo $_n ?>js/jquery-1.12.4.min.js"></script>
+    <script src="<?php echo $_n ?>js/html5lightbox/html5lightbox.js"></script>
+    <script src="<?php echo $_n ?>js/bootstrap.min.js"></script>
+    <script src="<?php echo $_n ?>js/jquery.enllax.min.js"></script>
+    <script src="<?php echo $_n ?>js/isotope.js"></script>
+    <script src="<?php echo $_n ?>js/owl.carousel.js"></script>
+    <script src="<?php echo $_n ?>js/main.js"></script>
 </body>
 
 </html>

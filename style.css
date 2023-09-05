@@ -275,7 +275,7 @@
 
 .mainMenu a:hover,
 .mainMenu .active a {
-  color: #111c16;
+  color: #000;
 }
 
 .sub-nav-toggler {
@@ -2780,6 +2780,9 @@ footer {
   width: 90% !important;
 }
 
+.btn-nv-100 {
+  width: 100% !important;
+}
 /* Utilerias */
 .border {
   border: 2px solid #CCC;
