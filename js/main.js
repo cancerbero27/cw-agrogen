@@ -288,7 +288,7 @@ function backToTopVisible() {
     }
 }
 
-function fixedNav() {
+/*function fixedNav() {
     if ($(".nav-fixed, .nav-solid").length) {
         if ($(window).scrollTop() > 120) {
             $(".nav-fixed, .nav-solid").addClass("fixed-nav")
@@ -296,7 +296,7 @@ function fixedNav() {
             $(".nav-fixed, .nav-solid").removeClass("fixed-nav")
         }
     }
-}
+}*/
 
 function handlePreloader() {
     if($('.preloader').length){

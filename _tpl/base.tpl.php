@@ -13,6 +13,8 @@
     <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>style.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>css/effect.css">
     <link rel="stylesheet" type="text/css" href="<?php echo $_n ?>css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
     <!-- ====== main style end ====== -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
