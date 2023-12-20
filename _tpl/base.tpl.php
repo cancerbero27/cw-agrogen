@@ -36,7 +36,7 @@
             <nav class="navbar nav-solid mb-0">
                 <div class="container-fluid">
                     <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu"> <span></span>  <span></span>  <span></span> 
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-menu"> <span></span>  <span></span>  <span></span>
                         </button>
                         <a class="navbar-brand" href="<?php echo $_n ?>index.html">
                             <img src="<?php echo $_n ?>img/logos/logotipo.png" alt="logo">
@@ -56,7 +56,7 @@
                             <li <?php if ($tpl["activo"] == "recursos"){ echo "class='active'"; } ?>>
                                 <a href="<?php echo $_n ?>recursos-tecnicos.html">Recursos Técnicos</a>
                             </li>
-                            
+
                             <li <?php if ($tpl["activo"] == "contacto"){ echo "class='active'"; } ?>>
                                 <a href="<?php echo $_n ?>contacto.html">Contacto</a>
                             </li>
@@ -92,7 +92,7 @@
 
         <?php include $tpl["contenido"]; ?>
 
-        <!-- footer start -->        
+        <!-- footer start -->
         <footer>
 
             <div class="footer-middle">
@@ -120,8 +120,8 @@
                                 <h2 class="footer-title">Planta Querétaro</h2>
                                 <h3>Carr. a Tlacote El Bajo, km. 5.5 Querétaro, Qro. C.P. 76000</h3>
                                 <ul>
-                                    <li><i class="fa fa-phone-square"></i> Tel. (442) 238 0000</li>
-                                    <li><i class="fa fa-phone-square"></i> Lada 01 800 111 0038</li>
+                                    <li><i class="fa fa-phone-square"></i> Tel. 442 238 0000</li>
+                                    <li><i class="fa fa-phone-square"></i> Lada 800 111 0038</li>
                                 </ul>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                                 <h2 class="footer-title">Oficinas México</h2>
                                 <h3>Andrés Bello No. 45 piso 13 Polanco, Chapultepec C.P.11560 Ciudad de México</h3>
                                 <ul>
-                                    <li><i class="fa fa-phone-square"></i> Tel. (55) 5246 4400</li>
+                                    <li><i class="fa fa-phone-square"></i> Tel. 55 5246 4400</li>
                                 </ul>
                             </div>
                         </div>
@@ -141,7 +141,7 @@
                                     <li>
                                         <a href="http://cfdiee.com/ValidadorAgrogen/AGR920618218?panel=1" class="thm-btn hvr-3 bg1 cw btn-nv text-center" target="_blank">
                                             Subir factura
-                                        </a>                                        
+                                        </a>
                                     </li>
                                 </ul>
                                 <br>
