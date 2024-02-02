@@ -2786,6 +2786,10 @@ footer {
   margin-bottom: 15px;
 }
 
+.justify-left {
+  justify-content: start !important;
+}
+
 /* UTILERIAS*/
 
 .u-oculto {
@@ -6456,4 +6460,16 @@ footer {
   margin-bottom: 25px;
   border-bottom: 2px dashed #3c9e4a;
   padding-bottom: 10px;
+}
+
+.contenedor-logo-hm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  position: relative;
+}
+
+.logo-hm {
+  height: 150px;
 }

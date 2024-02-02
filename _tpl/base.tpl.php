@@ -26,7 +26,7 @@
 <body>
     <div class="preloader text-center">
         <img src="<?php echo $_n ?>img/logos/preloader-logo.png" alt="">
-        <h1 class="preloader-texto f1">Más de 27 años sirviendo al campo Mexicano</h1>
+        <h1 class="preloader-texto f1">Más de 30 años sirviendo al campo Mexicano</h1>
         <div class="spinner"></div>
     </div>
     <!-- page-wrapper start -->
