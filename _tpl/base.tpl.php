@@ -56,7 +56,9 @@
                             <li <?php if ($tpl["activo"] == "recursos"){ echo "class='active'"; } ?>>
                                 <a href="<?php echo $_n ?>recursos-tecnicos.html">Recursos Técnicos</a>
                             </li>
-
+                            <li <?php if ($tpl["activo"] == "vacantes"){ echo "class='active'"; } ?>>
+                                <a href="<?php echo $_n ?>vacantes.html">Vacantes</a>
+                            </li>
                             <li <?php if ($tpl["activo"] == "contacto"){ echo "class='active'"; } ?>>
                                 <a href="<?php echo $_n ?>contacto.html">Contacto</a>
                             </li>
