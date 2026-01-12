@@ -74,16 +74,28 @@
                         <ul class="nav navbar-nav navbar-right mainMenu botones navbar-factura" >
                             <li> <a href="#" class="thm-btn hvr-3 cw">Proveedores</a>
                                 <ul class="sub-menu">
-                                    <li><a href="http://cfdiee.com/ValidadorAgrogen/AGR920618218?panel=1" target="_blank">Validación de facturas proveedores</a>
+                                    <li><a href="https://v3000-agrogen.validaxml.com/AGR920618218?panel=1" target="_blank">Validación de facturas proveedores</a>
                                     </li>
                                     <li><a href="descargas/manual-validacion.pdf" target="_blank">Manuales</a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
-                                <a href="http://sistema.agrogen.com.mx//" class="thm-btn bgAlt hvr-3  cw" target="_blank">
+                                <a href="#" class="thm-btn hvr-3 cw">
                                     Acceso a Clientes
+                                    <button class="sub-nav-toggler"> 
+                                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> 
+                                    </button>
                                 </a>
+                                <ul class="sub-menu">
+                                     <li>
+                                        <a href="descargas/Atento-comunicado.pdf" target="_blank">Aviso a Clientes</a>
+                                     </li>
+                                     <li>
+                                        <a href="descargas/Atento-comunicado2.pdf" target="_blank">Aviso Importante</a>
+                                     </li>
+                                 </ul>
+                                
                             </li>
                         </ul>
                     </div>
@@ -141,7 +153,7 @@
                                 <h2 class="footer-title">Facturas Proveedores</h2>
                                 <ul class="mt-0">
                                     <li>
-                                        <a href="http://cfdiee.com/ValidadorAgrogen/AGR920618218?panel=1" class="thm-btn hvr-3 bg1 cw btn-nv text-center" target="_blank">
+                                        <a href="https://v3000-agrogen.validaxml.com/AGR920618218?panel=1" class="thm-btn hvr-3 bg1 cw btn-nv text-center" target="_blank">
                                             Subir factura
                                         </a>
                                     </li>
