@@ -152,6 +152,9 @@
   width: 100%;
   z-index: 9999999;
 }
+.preloader img {
+  margin-top: 10%;
+}
 .preloader-texto {
   color: #FFF;
   font-weight: 800;
@@ -235,6 +238,10 @@
   padding-top: 15px;
   padding-bottom: 10px;
   border-radius: 0 0 3px 3px;
+}
+
+.slider-img {
+  max-width: 500px;
 }
 
 .mainMenu {

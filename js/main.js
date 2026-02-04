@@ -3,7 +3,7 @@
 function owlCarouselActivation() {
     if ($(".banner-carousel").length) {
         $(".banner-carousel").owlCarousel({
-            autoplay: false,
+            autoplay: true,
             autoplayTimeout: 8000,
             loop: true,
             animateOut: "fadeOut",

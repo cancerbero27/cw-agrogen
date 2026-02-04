@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mt",
+				"mt-5"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"lis",
+				"list-info"
+			],
+			[
+				"nav-",
+				"nav-link"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"ico",
+				"icons"
+			],
+			[
+				"des",
+				"descargas/"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"d-",
+				"d-block"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"t",
+				"texto-oficio"
+			],
+			[
+				"text",
+				"texto-oficio"
+			],
+			[
+				"tex",
+				"texto-constancia"
+			],
+			[
+				"m0",
+				"m-0"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"b-r",
+				"border-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tet",
+				"text-rigth"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"table",
+				"table-encuesta"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"cred",
+				"credencial-subtitulo"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260130 - SC siglas CIIDER/ciddir-dur.json",
+			"settings":
+			{
+				"buffer_size": 226,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "{"
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAA4gAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"data",
+				"DataConverter: to JSON"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/_contenido",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos"
+	],
+	"file_history":
+	[
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/_tpl/base.tpl.php",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/js/main.js",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/_contenido/_index.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/_contenido/_nosotros.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_sulfamin45-premium.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_fosfo-n34.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_fosfo-n34max.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/super-nitrato.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_super-nitrato.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_dap.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_complejo-triple-16.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_agroxtend-platinum.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/productos/_agroxtend-gold.html",
+		"/home/jonathan/Escritorio/DATOS/Proyectos/agrogen/cw-agrogen/style.css",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260120 - SISS unidades responsables/dbCatalogos.catCIPNunidadesResponsables.json",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260120 - SISS unidades responsables/catCIPNunidadesResponsables-modificado.json",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-siss/creacion usuarios/Usuarios para productivo.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260115 - SISS personas/usuarios-agregados.json",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2024/finales/datos-abiertos-recursos/Eje 2/2024_programas_np_acreditados_al_2024.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 5. Gobernanza y gestión institucional/2022_inventario_aplicaciones.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 4. cumplimiento del compromiso social/2022_documentos_diversos_impresos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 4. cumplimiento del compromiso social/2022_convenios_vinculacion_empresarial.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 4. cumplimiento del compromiso social/2022_acciones_divulgacion_ciencia_tecnologia.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 5. Gobernanza y gestión institucional/2022_premios_reconocimientos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2022/Eje 1. Calidad y pertenencia educativa/2022_eventos_presenciales_DVDR.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-riv/motivos}/catMotivos_qa.json",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-riv/motivos}/catMotivos_dev.json",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/canal once/Datos Abiertos ATDT/CARTA DE PROGRAMACIÓN/2025/carta022025_metadatos.csv",
+		"/media/jonathan/jonathan/Datos abiertos 2022/Eje 1. Calidad y pertenencia educativa/2022_equipos_parti_act_dep_diccionario_de_datos.csv",
+		"/media/jonathan/jonathan/Datos abiertos 2022/Eje 1. Calidad y pertenencia educativa/2022_equipos_selectivos_diccionario_de_datos.csv",
+		"/media/jonathan/jonathan/Datos abiertos 2022/Eje 1. Calidad y pertenencia educativa/2022_equipos_selectivos.csv",
+		"/media/jonathan/jonathan/Datos abiertos 2022/Eje 1. Calidad y pertenencia educativa/2022_equipos_parti_act_dep.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/canal once/Datos Abiertos ATDT/DATOS ABIERTOS - CANAL ONCE/CARTA DE PROGRAMACIÓN/2025/carta012025.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-haddop/hdfs_stats.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-haddop/20251211-hdfs_stats.csv",
+		"/home/jonathan/.local/share/DBeaverData/workspace6/General/Scripts/Script-37.sql",
+		"/home/jonathan/.local/share/DBeaverData/workspace6/General/Scripts/Script-43.sql",
+		"/home/jonathan/.local/share/DBeaverData/workspace6/General/Scripts/Explicación datos abiertos",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dev/dump-sc_sisae_siboltra_dev-202512171717-usuarios.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dev/dump-sc_sisae_siboltra_dev-202512171717-personas.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dev/dump-sc_sisae_siboltra_dev-202512171718-usuario_cat_role.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dev/dump-sc_sisae_siboltra_dev-202512171718-usuario_cat_medio_contacto.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dev/datos produccion",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251217 - SISAE/dump-sc_sisae_siboltra_dev-202512171713.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2024/finales/datos-abiertos-recursos/Eje 1/2024_equipos_selectivos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251205 - Unidades responsables/db_pwi_modx3_core.modx_ipn_dirtel_keys (1).sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/Comando utiles",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 5. Gobernanza y gestión institucional/2023_inventario_aplicaciones.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 1. Calidad y pertinencia educativa/2023_equipos_selectivos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_instrumentos_juridicos_reportados.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/Mongo3_Votaciones/votaciones_local.sh",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 5. Gobernanza y gestión institucional/2023_inventario_aplicaciones.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_proyectos_investigacion.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_listado_covenios_investigacion.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_convenios_vinculacion.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/ids_faltantes.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/BLOB_EDD_excel_ids_sorted.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/BLOB_EDD_excel_ids.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/BLOB_EDD_ids.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/BLOB-0_ids.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista_BLOB-3.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista_BLOB-2.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista_BLOB-1.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista_BLOB-0.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista-movimientos-SAD.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/mover_archivos-huerfanos.log",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/mover_archivos-LCGS.log",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/lista-movimientos-LCGS.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/mover-archivos-LCGS.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/mover-archivos-LCGS-v2-nombres-diferentes.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/mover-archivos-LCGS-v1-error.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-sad/crear-carpetas-LCGS.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/descompresion.log",
+		"/home/jonathan/Documentos/DATOS_EXPORT2_202511251023.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_proyectos_investigacion_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_listado_covenios_investigacion_diccionario_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_acervo_bibliografico_diccionario_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_acervo_bibliografico.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_nm.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_nm_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_np.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_np_diccionario_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_ns.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_ns_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 1. Calidad y pertinencia educativa/2023_usuarios_lenguas_extranjeras.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 1. Calidad y pertinencia educativa/2023_usuarios_lenguas_extranjeras_diccionario_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 1. Calidad y pertinencia educativa/2023_equipos_selectivos_diccionario_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 5. Gobernanza y gestión institucional/2023_inventario_de_aplicaciones_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_instrumentos_juridicos_reportados_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_convenios_vinculacion_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_convenios_de_cooperacion_academica_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_convenios_cooperacion_academica.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_alumnos_registrados_servicio_social_ns_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_alumnos_registrados_servicio_social_ns.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_alumnos_registrados_servicio_social_nms_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_alumnos_registrados_servicio_social_nms.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_actividades_fil_diccionario_de_datos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_actividades_fil.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/LISTADOS/incosistencias-respaldos.txt",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/LISTADOS/listado-respaldos-20251124.txt",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_ns.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_matricula_np.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_listado_covenios_investigacion.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 3. Conocimiento para la solución de problemas nacionales/2023_proyectos_investigacion.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_actividades_fil.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_convenios_vinculacion_diccionario_de_datos.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 4. Cumplimiento del compromiso social/2023_instrumentos_juridicos_reportados.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2023/Eje 2. Cobertura y atención estudiantil/2023_acervo_bibliografico.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2022/Eje 2. Cobertura y atención estudiantil/2023_matricula_nm.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2022/Eje 3. Conocimiento para la solución de problemas nacionales/2023_listado_covenios_investigacion.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2022/Eje 2. Cobertura y atención estudiantil/2023_acervo_bibliografico.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/OneDrive_2025-11-13/Diccionarios de datos - 2023/Eje 1. Calidad y pertinencia educativa/2023_equipos_selectivos.csv",
+		"/media/jonathan/KINGSTON/Datos abiertos 2022/Eje 1. Calidad y pertinencia educativa/2023_equipos_selectivos.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/OneDrive_2025-11-13/Diccionarios de datos - 2023/corregir_csv.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-datos-abiertos/recursos2023/OneDrive_2025-11-13/Diccionarios de datos - 2023/Eje 2. Cobertura y atención estudiantil/2023_acervo_bibliografico.csv",
+		"/home/jonathan/Documentos/2023_acervo_bibliografico.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/LISTADOS/listado_respaldos_20251003_190729.txt",
+		"/home/jonathan/Documentos/2023_acervo_bibliografico (1).csv",
+		"/home/jonathan/Documentos/2024_equipos_selectivos.csv",
+		"/home/jonathan/.cache/.fr-7BGAG3/dir-funcionarios/modx_ipn_dirtel_funcionario.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/ipn-modx/sitemap.xml",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251027 - SISS/documentos-prestadores-respaldo.json",
+		"/home/jonathan/Documentos/datos-abiertos/validacion/guardar_csv.sh",
+		"/home/jonathan/Documentos/datos-abiertos/csv_utf8-metadatos/crea-metadatos.sh",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251021 - SISS agregar ciudad/dbSiSS.prestatarios.json",
+		"/home/jonathan/Imágenes/02formato-cuenta_publica_bienes_inventariable.csv",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251020 - cvs ch/dump-directorio-202510202002_respaldo.sql",
+		"/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20251022 - SRIV solicitudes/solicitud-borrada.json"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(N",
+			"owlCarouselActivation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260130 - SC siglas CIIDER/ciddir-dur.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 226,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										225,
+										226
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"default_dir": "/home/jonathan/Escritorio/DATOS/trabajo/Carpeta-de-trabajo/respaldos/20260130 - SC siglas CIIDER",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "enfermero-industrial.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 335.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
